@@ -1,3 +1,4 @@
+#@Nuevo
 class Celda:
     def __init__(self):
         self.__coordenada_inf = ()
